@@ -1,0 +1,4 @@
+include ':home'
+include ':app'
+include ':feature'
+rootProject.name = "DaggerRuntimeClasspathError"
